@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Computer Science undergraduate at BITS Pilani and Scaler School of Technology with a primary focus on backend engineering and system-oriented development. I enjoy building backend services that handle real business logic—designing REST APIs, modeling data, implementing role-based access, and structuring applications for clarity and maintainability. Through academic projects, teaching assistant work, and personal projects, I’ve worked with Java, Spring Boot, relational databases, and Node.js backends, with an emphasis on clean service-layer design rather than frontend polish. I’m currently focused on strengthening my backend fundamentals and building production-style systems while preparing for backend internship roles.<br>
+Hi there 👋I am a Computer Science undergraduate and open-source contributor focusing on backend engineering, DevOps, and system-oriented development.What I Do:Build clean, maintainable backend services and REST APIs.Model data and implement secure role-based access control.Contribute to open-source projects like Jenkins.My Tech Stack:Languages & Frameworks: Java, Spring Boot, Node.js.Databases: Relational Databases (SQL).Tools & DevOps: Jenkins, Git.Current Goal:Strengthening my systems knowledge and building production-grade projects while seeking backend/DevOps internship opportunities.br>
 
 
 ## 🌐 Socials:
