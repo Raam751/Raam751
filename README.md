@@ -1,5 +1,13 @@
 # 💫 About Me:
-Hi there 👋I am a Computer Science undergraduate and open-source contributor focusing on backend engineering, DevOps, and system-oriented development.What I Do:Build clean, maintainable backend services and REST APIs.Model data and implement secure role-based access control.Contribute to open-source projects like Jenkins.My Tech Stack:Languages & Frameworks: Java, Spring Boot, Node.js.Databases: Relational Databases (SQL).Tools & DevOps: Jenkins, Git.Current Goal:Strengthening my systems knowledge and building production-grade projects while seeking backend/DevOps internship opportunities.br>
+Hi 👋 I'm a CS undergraduate and open-source contributor. I like working inside large,
+unfamiliar codebases — reading them, finding out why something is broken, and fixing it
+with the smallest change that works.
+
+**I work with**
+Java · TypeScript / React · Python · Bash · Git, Maven, Jenkins
+
+**Right now**
+Deepening my systems and open-source work, and looking for backend or platform internships.
 
 
 ## 🌐 Socials:
