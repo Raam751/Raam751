@@ -30,7 +30,7 @@ Deepening my systems and open-source work, and looking for backend or platform i
 ![](https://github-contributor-stats.vercel.app/api?username=Raam751&limit=5&theme=calm_pink&combine_all_yearly_contributions=true)
 
 ---
-[![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRaam751&title=Visitors&edge_flat=true)](https://github.com/Raam751)
+![Profile Views](https://komarev.com/ghpvc/?username=Raam751&label=VISITORS&color=blue&style=flat-square)
 
 
 <!-- ****************************************** -->
